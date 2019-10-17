@@ -1,0 +1,8 @@
+C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.Data\bin\Debug\netstandard2.0\AspNetCore3.0Base.Infra.Data.deps.json
+C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.Data\bin\Debug\netstandard2.0\AspNetCore3.0Base.Infra.Data.dll
+C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.Data\bin\Debug\netstandard2.0\AspNetCore3.0Base.Infra.Data.pdb
+C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.Data\obj\Debug\netstandard2.0\AspNetCore3.0Base.Infra.Data.csprojAssemblyReference.cache
+C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.Data\obj\Debug\netstandard2.0\AspNetCore3.0Base.Infra.Data.AssemblyInfoInputs.cache
+C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.Data\obj\Debug\netstandard2.0\AspNetCore3.0Base.Infra.Data.AssemblyInfo.cs
+C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.Data\obj\Debug\netstandard2.0\AspNetCore3.0Base.Infra.Data.dll
+C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.Data\obj\Debug\netstandard2.0\AspNetCore3.0Base.Infra.Data.pdb

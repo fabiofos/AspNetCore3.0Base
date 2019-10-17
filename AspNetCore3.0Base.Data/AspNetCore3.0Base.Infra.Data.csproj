@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>AspNetCore3._0Base.Data</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Context\" />
+    <Folder Include="Contract\" />
+    <Folder Include="EntityConfig\" />
+    <Folder Include="SeedData\" />
+    <Folder Include="Repository\" />
+  </ItemGroup>
+
+</Project>

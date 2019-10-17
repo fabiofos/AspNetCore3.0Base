@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>AspNetCore3._0Base.Domain</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Entities\" />
+    <Folder Include="Interface\Services\" />
+    <Folder Include="Interface\Repositories\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
+</Project>
