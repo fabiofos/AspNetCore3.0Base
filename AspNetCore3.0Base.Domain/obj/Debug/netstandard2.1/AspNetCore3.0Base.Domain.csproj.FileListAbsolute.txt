@@ -1,0 +1,8 @@
+C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.Domain\bin\Debug\netstandard2.1\AspNetCore3.0Base.Domain.deps.json
+C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.Domain\bin\Debug\netstandard2.1\AspNetCore3.0Base.Domain.dll
+C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.Domain\obj\Debug\netstandard2.1\AspNetCore3.0Base.Domain.AssemblyInfoInputs.cache
+C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.Domain\obj\Debug\netstandard2.1\AspNetCore3.0Base.Domain.AssemblyInfo.cs
+C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.Domain\obj\Debug\netstandard2.1\AspNetCore3.0Base.Domain.csprojAssemblyReference.cache
+C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.Domain\bin\Debug\netstandard2.1\AspNetCore3.0Base.Domain.pdb
+C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.Domain\obj\Debug\netstandard2.1\AspNetCore3.0Base.Domain.dll
+C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.Domain\obj\Debug\netstandard2.1\AspNetCore3.0Base.Domain.pdb
