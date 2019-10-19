@@ -1,4 +1,6 @@
-﻿using AutoMapper;
+﻿using AspNetCore3._0Base.Domain.Entities;
+using AutoMapper;
+using Microsoft.AspNetCore.Identity;
 
 namespace AspNetCore3._0Base.RestAPI.AutoMapper
 {
@@ -7,9 +9,9 @@ namespace AspNetCore3._0Base.RestAPI.AutoMapper
 
         public AutoMapperConfiguration()
         {
-        
+
             //Create the application mappings here
-            //CreateMap<CliSurgeryDoctorViewModel, CLI_SURGERY_DOCTOR>();
+            CreateMap<IdentityUser, ApplicationUser>();
         }
     }
 }
