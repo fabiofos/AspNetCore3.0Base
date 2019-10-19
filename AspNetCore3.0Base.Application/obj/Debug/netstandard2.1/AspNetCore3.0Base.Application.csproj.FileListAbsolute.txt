@@ -1,11 +1,10 @@
 C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.Application\bin\Debug\netstandard2.1\AspNetCore3.0Base.Application.deps.json
 C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.Application\bin\Debug\netstandard2.1\AspNetCore3.0Base.Application.dll
 C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.Application\bin\Debug\netstandard2.1\AspNetCore3.0Base.Application.pdb
-C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.Application\obj\Debug\netstandard2.1\AspNetCore3.0Base.Application.csprojAssemblyReference.cache
-C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.Application\obj\Debug\netstandard2.1\AspNetCore3.0Base.Application.AssemblyInfoInputs.cache
-C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.Application\obj\Debug\netstandard2.1\AspNetCore3.0Base.Application.AssemblyInfo.cs
-C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.Application\obj\Debug\netstandard2.1\AspNetCore3.0Base.Application.dll
-C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.Application\obj\Debug\netstandard2.1\AspNetCore3.0Base.Application.pdb
 C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.Application\bin\Debug\netstandard2.1\AspNetCore3.0Base.Domain.dll
 C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.Application\bin\Debug\netstandard2.1\AspNetCore3.0Base.Domain.pdb
+C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.Application\obj\Debug\netstandard2.1\AspNetCore3.0Base.Application.AssemblyInfoInputs.cache
+C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.Application\obj\Debug\netstandard2.1\AspNetCore3.0Base.Application.AssemblyInfo.cs
 C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.Application\obj\Debug\netstandard2.1\AspNetCore3.0Base.Application.csproj.CopyComplete
+C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.Application\obj\Debug\netstandard2.1\AspNetCore3.0Base.Application.dll
+C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.Application\obj\Debug\netstandard2.1\AspNetCore3.0Base.Application.pdb

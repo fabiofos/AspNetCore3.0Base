@@ -23,8 +23,6 @@ namespace AspNetCore3._0Base.Data.Context
         public DbSet<LogEntry> LogEntry { get; set; }
         public DbSet<LogEntryWebApi> LogEntryWebApi { get; set; }
         public DbSet<MenuPermission> MenuPermission { get; set; }
-        public DbSet<Perfil> Perfil { get; set; }
-
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
