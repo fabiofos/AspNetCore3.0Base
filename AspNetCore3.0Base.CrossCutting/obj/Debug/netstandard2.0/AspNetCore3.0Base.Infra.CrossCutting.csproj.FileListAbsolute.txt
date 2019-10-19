@@ -1,8 +1,0 @@
-C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.CrossCutting\bin\Debug\netstandard2.0\AspNetCore3.0Base.Infra.CrossCutting.deps.json
-C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.CrossCutting\bin\Debug\netstandard2.0\AspNetCore3.0Base.Infra.CrossCutting.dll
-C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.CrossCutting\bin\Debug\netstandard2.0\AspNetCore3.0Base.Infra.CrossCutting.pdb
-C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.CrossCutting\obj\Debug\netstandard2.0\AspNetCore3.0Base.Infra.CrossCutting.csprojAssemblyReference.cache
-C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.CrossCutting\obj\Debug\netstandard2.0\AspNetCore3.0Base.Infra.CrossCutting.AssemblyInfoInputs.cache
-C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.CrossCutting\obj\Debug\netstandard2.0\AspNetCore3.0Base.Infra.CrossCutting.AssemblyInfo.cs
-C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.CrossCutting\obj\Debug\netstandard2.0\AspNetCore3.0Base.Infra.CrossCutting.dll
-C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.CrossCutting\obj\Debug\netstandard2.0\AspNetCore3.0Base.Infra.CrossCutting.pdb

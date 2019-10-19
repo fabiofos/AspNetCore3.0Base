@@ -1,13 +1,17 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>netstandard2.1</TargetFramework>
     <RootNamespace>AspNetCore3._0Base.Application</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
     <Folder Include="Services\" />
     <Folder Include="Interface\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AspNetCore3.0Base.Domain\AspNetCore3.0Base.Domain.csproj" />
   </ItemGroup>
 
 </Project>

@@ -6,18 +6,22 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Context\" />
     <Folder Include="Contract\" />
     <Folder Include="EntityConfig\" />
-    <Folder Include="SeedData\" />
     <Folder Include="Repository\" />
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Hosting.Abstractions" Version="2.2.0" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.0.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.0.0" />
     <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="3.0.0" />
     <PackageReference Include="Microsoft.Extensions.Identity.Stores" Version="3.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AspNetCore3.0Base.CrossCutting\AspNetCore3.0Base.Infra.CrossCutting.csproj" />
+    <ProjectReference Include="..\AspNetCore3.0Base.Domain\AspNetCore3.0Base.Domain.csproj" />
   </ItemGroup>
 
 </Project>
