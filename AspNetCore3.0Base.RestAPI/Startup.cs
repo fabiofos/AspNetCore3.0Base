@@ -228,7 +228,7 @@ namespace AspNetCore3._0Base.RestAPI
             #endregion
 
             #region "Asp Net Identity Configuration"
-            services.AddIdentity<ApplicationUser, IdentityRole>(
+            services.AddIdentity<ApplicationUser, ApplicationRole>(
                 cfg =>
                 {
                     cfg.SignIn.RequireConfirmedEmail = false;
@@ -253,7 +253,7 @@ namespace AspNetCore3._0Base.RestAPI
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env,
 UserManager<ApplicationUser> userManager,
-RoleManager<IdentityRole> roleManager)
+RoleManager<ApplicationRole> roleManager)
         {
             // caching response for middlewares
             app.UseResponseCaching();
@@ -291,19 +291,9 @@ RoleManager<IdentityRole> roleManager)
                 });
             }
 
-            UserRolesSeed.SeedRoles(
-roleManager);
+            UserRolesSeed.SeedRoles(roleManager);
 
-            //using (var scope = app.ApplicationServices.CreateScope())
-            //{
-            //    var userManager = (UserManager<ApplicationUser>)scope.ServiceProvider.GetService(typeof(UserManager<ApplicationUser>));
-            //    var roleManager = (RoleManager<IdentityRole>)scope.ServiceProvider.GetService(typeof(RoleManager<IdentityRole>));
-            //    var unitOfWork = (IUnitOfWork)scope.ServiceProvider.GetService(typeof(IUnitOfWork));
-            //    new UserRolesSeed(
-            //    roleManager,
-            //    userManager,
-            //    unitOfWork).Seed();
-            //}
+            UserRolesSeed.SeedUser(userManager);
 
             var option = new RewriteOptions();
             option.AddRedirect("^$", "swagger");

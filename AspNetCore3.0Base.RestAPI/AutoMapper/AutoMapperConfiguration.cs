@@ -12,6 +12,7 @@ namespace AspNetCore3._0Base.RestAPI.AutoMapper
 
             //Create the application mappings here
             CreateMap<IdentityUser, ApplicationUser>();
+            CreateMap<IdentityRole, ApplicationRole>();
         }
     }
 }

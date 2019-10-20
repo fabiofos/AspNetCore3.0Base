@@ -11,7 +11,7 @@ using System.Text;
 
 namespace AspNetCore3._0Base.Data.Context
 {
-    public class ApplicationNameContext : IdentityDbContext<ApplicationUser>
+    public class ApplicationNameContext : IdentityDbContext<ApplicationUser, ApplicationRole, string>
     {
         private readonly IHttpContextAccessor _httpContextAccessor;
         public ApplicationNameContext(DbContextOptions<ApplicationNameContext> options,
