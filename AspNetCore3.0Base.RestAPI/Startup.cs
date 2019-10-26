@@ -291,9 +291,8 @@ RoleManager<ApplicationRole> roleManager)
                 });
             }
 
-            UserRolesSeed.SeedRoles(roleManager);
-
-            UserRolesSeed.SeedUser(userManager);
+            var seed = new SeedUserAndRoles(userManager, roleManager);
+            seed.SeedRoles().Wait();
 
             var option = new RewriteOptions();
             option.AddRedirect("^$", "swagger");
