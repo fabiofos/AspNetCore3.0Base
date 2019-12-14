@@ -1,9 +1,9 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace AspNetCore3._0Base.Data.Migrations
+namespace AspNetCore3Base.Data.Migrations
 {
-    public partial class Bd : Migration
+    public partial class initial : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

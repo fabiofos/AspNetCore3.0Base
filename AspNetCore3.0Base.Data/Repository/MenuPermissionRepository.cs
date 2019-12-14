@@ -1,8 +1,8 @@
-﻿using AspNetCore3._0Base.Data.Context;
-using AspNetCore3._0Base.Domain.Entities;
-using AspNetCore3._0Base.Domain.Interfaces.Repositories;
+﻿using AspNetCore3Base.Data.Context;
+using AspNetCore3Base.Domain.Entities;
+using AspNetCore3Base.Domain.Interfaces.Repositories;
 
-namespace AspNetCore3._0Base.Data.Repository
+namespace AspNetCore3Base.Data.Repository
 {
     public class MenuPermissionRepository : RepositoryBase<MenuPermission>, IMenuPermissionRepository
     {

@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
-    <RootNamespace>AspNetCore3._0Base.Domain</RootNamespace>
+    <RootNamespace>AspNetCore3Base.Domain</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

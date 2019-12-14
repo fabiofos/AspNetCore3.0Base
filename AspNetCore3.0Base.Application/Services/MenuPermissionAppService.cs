@@ -1,9 +1,9 @@
-﻿using AspNetCore3._0Base.Application.Interface;
-using AspNetCore3._0Base.Domain.Entities;
-using AspNetCore3._0Base.Domain.Interfaces.Services;
+﻿using AspNetCore3Base.Application.Interface;
+using AspNetCore3Base.Domain.Entities;
+using AspNetCore3Base.Domain.Interfaces.Services;
 
 
-namespace AspNetCore3._0Base.Application.Services
+namespace AspNetCore3Base.Application.Services
 {
     public class MenuPermissionAppService : AppServiceBase<MenuPermission>, IMenuPermissionAppService
     {

@@ -1,6 +1,6 @@
 using System;
 
-namespace AspNetCore3._0Base.React
+namespace AspNetCore3Base.React
 {
     public class WeatherForecast
     {

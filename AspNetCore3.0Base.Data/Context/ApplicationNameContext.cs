@@ -1,5 +1,5 @@
-﻿using AspNetCore3._0Base.Data.SeedData;
-using AspNetCore3._0Base.Domain.Entities;
+﻿using AspNetCore3Base.Data.SeedData;
+using AspNetCore3Base.Domain.Entities;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
@@ -9,7 +9,7 @@ using System.Linq;
 using System.Security.Claims;
 using System.Text;
 
-namespace AspNetCore3._0Base.Data.Context
+namespace AspNetCore3Base.Data.Context
 {
     public class ApplicationNameContext : IdentityDbContext<ApplicationUser, ApplicationRole, string>
     {

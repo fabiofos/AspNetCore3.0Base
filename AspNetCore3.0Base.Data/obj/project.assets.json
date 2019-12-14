@@ -7372,21 +7372,17 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\fabio\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\fabio\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Aplicacoes_Estudo\\AspNetCore3.0Base\\AspNetCore3.0Base.Data\\AspNetCore3.0Base.Infra.Data.csproj",
+      "projectUniqueName": "C:\\Projetos\\AspNetCore3.0Base\\AspNetCore3.0Base.Data\\AspNetCore3.0Base.Infra.Data.csproj",
       "projectName": "AspNetCore3.0Base.Infra.Data",
-      "projectPath": "C:\\Aplicacoes_Estudo\\AspNetCore3.0Base\\AspNetCore3.0Base.Data\\AspNetCore3.0Base.Infra.Data.csproj",
+      "projectPath": "C:\\Projetos\\AspNetCore3.0Base\\AspNetCore3.0Base.Data\\AspNetCore3.0Base.Infra.Data.csproj",
       "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-      "outputPath": "C:\\Aplicacoes_Estudo\\AspNetCore3.0Base\\AspNetCore3.0Base.Data\\obj\\",
+      "outputPath": "C:\\Projetos\\AspNetCore3.0Base\\AspNetCore3.0Base.Data\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -7401,11 +7397,11 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\Aplicacoes_Estudo\\AspNetCore3.0Base\\AspNetCore3.0Base.CrossCutting\\AspNetCore3.0Base.Infra.CrossCutting.csproj": {
-              "projectPath": "C:\\Aplicacoes_Estudo\\AspNetCore3.0Base\\AspNetCore3.0Base.CrossCutting\\AspNetCore3.0Base.Infra.CrossCutting.csproj"
+            "C:\\Projetos\\AspNetCore3.0Base\\AspNetCore3.0Base.CrossCutting\\AspNetCore3.0Base.Infra.CrossCutting.csproj": {
+              "projectPath": "C:\\Projetos\\AspNetCore3.0Base\\AspNetCore3.0Base.CrossCutting\\AspNetCore3.0Base.Infra.CrossCutting.csproj"
             },
-            "C:\\Aplicacoes_Estudo\\AspNetCore3.0Base\\AspNetCore3.0Base.Domain\\AspNetCore3.0Base.Domain.csproj": {
-              "projectPath": "C:\\Aplicacoes_Estudo\\AspNetCore3.0Base\\AspNetCore3.0Base.Domain\\AspNetCore3.0Base.Domain.csproj"
+            "C:\\Projetos\\AspNetCore3.0Base\\AspNetCore3.0Base.Domain\\AspNetCore3.0Base.Domain.csproj": {
+              "projectPath": "C:\\Projetos\\AspNetCore3.0Base\\AspNetCore3.0Base.Domain\\AspNetCore3.0Base.Domain.csproj"
             }
           }
         }
@@ -7461,7 +7457,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

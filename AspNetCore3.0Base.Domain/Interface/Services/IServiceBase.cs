@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
 
-namespace AspNetCore3._0Base.Domain.Interfaces.Services
+namespace AspNetCore3Base.Domain.Interfaces.Services
 {
     public interface IServiceBase<TEntity> where TEntity : class 
     {

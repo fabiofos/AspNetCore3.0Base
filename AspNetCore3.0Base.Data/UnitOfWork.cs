@@ -1,13 +1,13 @@
-﻿using AspNetCore3._0Base.Data.Context;
-using AspNetCore3._0Base.Data.Contract;
-using AspNetCore3._0Base.Data.Repository;
-using AspNetCore3._0Base.Domain.Interfaces.Repositories;
+﻿using AspNetCore3Base.Data.Context;
+using AspNetCore3Base.Data.Contract;
+using AspNetCore3Base.Data.Repository;
+using AspNetCore3Base.Domain.Interfaces.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace AspNetCore3._0Base.Data
+namespace AspNetCore3Base.Data
 {
     public class UnitOfWork : IUnitOfWork
     {

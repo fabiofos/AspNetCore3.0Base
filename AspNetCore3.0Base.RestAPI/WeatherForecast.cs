@@ -1,6 +1,6 @@
 using System;
 
-namespace AspNetCore3._0Base.RestAPI
+namespace AspNetCore3Base.RestAPI
 {
     public class WeatherForecast
     {

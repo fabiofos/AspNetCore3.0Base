@@ -4,18 +4,18 @@ using System.Globalization;
 using System.IO;
 using System.Linq;
 using System.Reflection;
-using AspNetCore3._0Base.Application.Interface;
-using AspNetCore3._0Base.Application.Services;
-using AspNetCore3._0Base.CrossCutting.Interface.Repositories;
-using AspNetCore3._0Base.Data;
-using AspNetCore3._0Base.Data.Context;
-using AspNetCore3._0Base.Data.Contract;
-using AspNetCore3._0Base.Data.Repository;
-using AspNetCore3._0Base.Domain.Entities;
-using AspNetCore3._0Base.Domain.Interfaces.Repositories;
-using AspNetCore3._0Base.RestAPI.AutoMapper;
-using AspNetCore3._0Base.RestAPI.Helpers;
-using AspNetCore3._0Base.RestAPI.Security.Configuration;
+using AspNetCore3Base.Application.Interface;
+using AspNetCore3Base.Application.Services;
+using AspNetCore3Base.CrossCutting.Interface.Repositories;
+using AspNetCore3Base.Data;
+using AspNetCore3Base.Data.Context;
+using AspNetCore3Base.Data.Contract;
+using AspNetCore3Base.Data.Repository;
+using AspNetCore3Base.Domain.Entities;
+using AspNetCore3Base.Domain.Interfaces.Repositories;
+using AspNetCore3Base.RestAPI.AutoMapper;
+using AspNetCore3Base.RestAPI.Helpers;
+using AspNetCore3Base.RestAPI.Security.Configuration;
 using AutoMapper;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
@@ -33,7 +33,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Options;
 using Microsoft.OpenApi.Models;
 
-namespace AspNetCore3._0Base.RestAPI
+namespace AspNetCore3Base.RestAPI
 {
     public class Startup
     {

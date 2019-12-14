@@ -1,4 +1,4 @@
-﻿namespace AspNetCore3._0Base.RestAPI.Security.Configuration
+﻿namespace AspNetCore3Base.RestAPI.Security.Configuration
 {
     public class TokenConfiguration
     {

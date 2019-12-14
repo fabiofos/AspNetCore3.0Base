@@ -6,7 +6,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-namespace AspNetCore3._0Base.Angular
+namespace AspNetCore3Base.Angular
 {
     public class Startup
     {

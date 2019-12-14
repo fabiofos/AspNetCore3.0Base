@@ -1,6 +1,6 @@
-﻿using AspNetCore3._0Base.Data.Context;
-using AspNetCore3._0Base.Data.Contract;
-using AspNetCore3._0Base.Domain.Interfaces.Repositories;
+﻿using AspNetCore3Base.Data.Context;
+using AspNetCore3Base.Data.Contract;
+using AspNetCore3Base.Domain.Interfaces.Repositories;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -8,7 +8,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
 
-namespace AspNetCore3._0Base.Data.Repository
+namespace AspNetCore3Base.Data.Repository
 {
     public class RepositoryBase<TEntity> : IRepositoryBase<TEntity> where TEntity : class
     {

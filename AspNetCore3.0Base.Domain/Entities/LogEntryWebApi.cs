@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Xml.Linq;
 
-namespace AspNetCore3._0Base.Domain.Entities
+namespace AspNetCore3Base.Domain.Entities
 {
     public class LogEntryWebApi
     {

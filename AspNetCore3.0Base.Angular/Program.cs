@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace AspNetCore3._0Base.Angular
+namespace AspNetCore3Base.Angular
 {
     public class Program
     {

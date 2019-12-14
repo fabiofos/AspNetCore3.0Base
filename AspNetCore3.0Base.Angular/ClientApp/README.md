@@ -1,4 +1,4 @@
-# AspNetCore3._0Base.Angular
+# AspNetCore3Base.Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 

@@ -11,3 +11,16 @@ C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.Data\obj\Debug\netstand
 C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.Data\obj\Debug\netstandard2.1\AspNetCore3.0Base.Infra.Data.csproj.CopyComplete
 C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.Data\obj\Debug\netstandard2.1\AspNetCore3.0Base.Infra.Data.dll
 C:\Aplicacoes_Estudo\AspNetCore3.0Base\AspNetCore3.0Base.Data\obj\Debug\netstandard2.1\AspNetCore3.0Base.Infra.Data.pdb
+C:\Projetos\AspNetCore3.0Base\AspNetCore3.0Base.Data\bin\Debug\netstandard2.1\AspNetCore3.0Base.Infra.Data.deps.json
+C:\Projetos\AspNetCore3.0Base\AspNetCore3.0Base.Data\bin\Debug\netstandard2.1\AspNetCore3.0Base.Infra.Data.dll
+C:\Projetos\AspNetCore3.0Base\AspNetCore3.0Base.Data\bin\Debug\netstandard2.1\AspNetCore3.0Base.Infra.Data.pdb
+C:\Projetos\AspNetCore3.0Base\AspNetCore3.0Base.Data\bin\Debug\netstandard2.1\AspNetCore3.0Base.Domain.dll
+C:\Projetos\AspNetCore3.0Base\AspNetCore3.0Base.Data\bin\Debug\netstandard2.1\AspNetCore3.0Base.Infra.CrossCutting.dll
+C:\Projetos\AspNetCore3.0Base\AspNetCore3.0Base.Data\bin\Debug\netstandard2.1\AspNetCore3.0Base.Infra.CrossCutting.pdb
+C:\Projetos\AspNetCore3.0Base\AspNetCore3.0Base.Data\bin\Debug\netstandard2.1\AspNetCore3.0Base.Domain.pdb
+C:\Projetos\AspNetCore3.0Base\AspNetCore3.0Base.Data\obj\Debug\netstandard2.1\AspNetCore3.0Base.Infra.Data.csprojAssemblyReference.cache
+C:\Projetos\AspNetCore3.0Base\AspNetCore3.0Base.Data\obj\Debug\netstandard2.1\AspNetCore3.0Base.Infra.Data.AssemblyInfoInputs.cache
+C:\Projetos\AspNetCore3.0Base\AspNetCore3.0Base.Data\obj\Debug\netstandard2.1\AspNetCore3.0Base.Infra.Data.AssemblyInfo.cs
+C:\Projetos\AspNetCore3.0Base\AspNetCore3.0Base.Data\obj\Debug\netstandard2.1\AspNetCore3.0Base.Infra.Data.csproj.CopyComplete
+C:\Projetos\AspNetCore3.0Base\AspNetCore3.0Base.Data\obj\Debug\netstandard2.1\AspNetCore3.0Base.Infra.Data.dll
+C:\Projetos\AspNetCore3.0Base\AspNetCore3.0Base.Data\obj\Debug\netstandard2.1\AspNetCore3.0Base.Infra.Data.pdb

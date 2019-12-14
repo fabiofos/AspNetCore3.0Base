@@ -1,11 +1,11 @@
-﻿using AspNetCore3._0Base.Domain.Entities;
+﻿using AspNetCore3Base.Domain.Entities;
 using Microsoft.AspNetCore.Identity;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace AspNetCore3._0Base.RestAPI.Helpers
+namespace AspNetCore3Base.RestAPI.Helpers
 {
     public class SeedUserAndRoles
     {

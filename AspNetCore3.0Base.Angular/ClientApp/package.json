@@ -1,11 +1,11 @@
 {
-  "name": "aspnetcore3._0base.angular",
+  "name": "aspnetcore3base.angular",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "build:ssr": "ng run AspNetCore3._0Base.Angular:server:dev",
+    "build:ssr": "ng run AspNetCore3Base.Angular:server:dev",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"

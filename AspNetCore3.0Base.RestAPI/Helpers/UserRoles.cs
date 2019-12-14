@@ -1,5 +1,5 @@
 ﻿
-namespace AspNetCore3._0Base.RestAPI.Helpers
+namespace AspNetCore3Base.RestAPI.Helpers
 {
     public static class UserRoles
     {

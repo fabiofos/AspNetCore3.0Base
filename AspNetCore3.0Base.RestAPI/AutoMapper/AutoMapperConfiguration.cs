@@ -1,8 +1,8 @@
-﻿using AspNetCore3._0Base.Domain.Entities;
+﻿using AspNetCore3Base.Domain.Entities;
 using AutoMapper;
 using Microsoft.AspNetCore.Identity;
 
-namespace AspNetCore3._0Base.RestAPI.AutoMapper
+namespace AspNetCore3Base.RestAPI.AutoMapper
 {
     public class AutoMapperConfiguration : Profile
     {

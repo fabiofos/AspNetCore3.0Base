@@ -1,7 +1,7 @@
-﻿using AspNetCore3._0Base.Domain.Interfaces.Repositories;
+﻿using AspNetCore3Base.Domain.Interfaces.Repositories;
 using System.Threading.Tasks;
 
-namespace AspNetCore3._0Base.Data.Contract
+namespace AspNetCore3Base.Data.Contract
 {
     public interface IUnitOfWork
     {

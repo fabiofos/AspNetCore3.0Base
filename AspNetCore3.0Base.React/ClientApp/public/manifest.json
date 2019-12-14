@@ -1,6 +1,6 @@
 {
-  "short_name": "AspNetCore3._0Base.React",
-  "name": "AspNetCore3._0Base.React",
+  "short_name": "AspNetCore3Base.React",
+  "name": "AspNetCore3Base.React",
   "icons": [
     {
       "src": "favicon.ico",

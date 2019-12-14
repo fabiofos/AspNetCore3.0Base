@@ -10,7 +10,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Serilog;
 
-namespace AspNetCore3._0Base.RestAPI
+namespace AspNetCore3Base.RestAPI
 {
     public class Program
     {

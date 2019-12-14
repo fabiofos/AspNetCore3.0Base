@@ -1,11 +1,11 @@
-﻿using AspNetCore3._0Base.Application.Interface;
-using AspNetCore3._0Base.Domain.Interfaces.Services;
+﻿using AspNetCore3Base.Application.Interface;
+using AspNetCore3Base.Domain.Interfaces.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
 
-namespace AspNetCore3._0Base.Application.Services
+namespace AspNetCore3Base.Application.Services
 {
     public class AppServiceBase<TEntity> : IAppServiceBase<TEntity> where TEntity : class
     {

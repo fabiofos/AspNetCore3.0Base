@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
-    <RootNamespace>AspNetCore3._0Base.CrossCutting</RootNamespace>
+    <RootNamespace>AspNetCore3Base.CrossCutting</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

@@ -1,10 +1,10 @@
-﻿using AspNetCore3._0Base.Domain.Entities;
+﻿using AspNetCore3Base.Domain.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
 
-namespace AspNetCore3._0Base.CrossCutting.Interface.Repositories
+namespace AspNetCore3Base.CrossCutting.Interface.Repositories
 {
     public interface ILoggingWebApiCrossCutting
     {
